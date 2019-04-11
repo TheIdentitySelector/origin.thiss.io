@@ -1,0 +1,31 @@
+/* === Libre Franklin - regular */
+@font-face {
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("./font/LibreFranklin-Regular.eot");
+	src: local("Libre Franklin"),
+		local("LibreFranklin-Regular"),
+		url("./font/LibreFranklin-Regular.eot") format("embedded-opentype"),
+		url("./font/LibreFranklin-Regular.woff2") format("woff2"),
+		url("./font/LibreFranklin-Regular.woff") format("woff"),
+		url("./font/LibreFranklin-Regular.ttf") format("truetype"),
+		url("./font/LibreFranklin-Regular.svg") format("svg");
+}
+
+/* === Libre Franklin - 700 */
+@font-face {
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("./font/LibreFranklin-Bold.eot");
+	src: local("Libre Franklin Bold"),
+		local("LibreFranklin-Bold"),
+		url("./font/LibreFranklin-Bold.eot") format("embedded-opentype"),
+		url("./font/LibreFranklin-Bold.woff2") format("woff2"),
+		url("./font/LibreFranklin-Bold.woff") format("woff"),
+		url("./font/LibreFranklin-Bold.ttf") format("truetype"),
+		url("./font/LibreFranklin-Bold.svg") format("svg");
+}
